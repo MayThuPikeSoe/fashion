@@ -39,7 +39,7 @@ html{
     font-size: 20px;
 }
 .home{
-    border-bottom: 1px solid red;    
+    border-bottom: 1px solid blue;    
 }
 .header-menu-item-data:hover{
     border-bottom: 1px solid red;
